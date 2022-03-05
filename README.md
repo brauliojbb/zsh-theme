@@ -1,6 +1,6 @@
 # zsh-theme
 
-It's a gentoo zsh-theme using robbyrussell features.
+It's a gentoo zsh-theme using robbyrussell features (also, I use *agnoster* in super user :)).
 
 
 1. Install oh-my-zsh via curl:
