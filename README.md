@@ -13,7 +13,7 @@ Set Up
 
 1. Install oh-my-zsh via curl:
 ```
-$ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 2. Create the **[~/.oh-my-zsh/themes/gentoo_plus_robbyrussell.zsh-theme](gentoo_plus_robbyrussell.zsh-theme)** file and set on ~/.zshrc:
 ```
